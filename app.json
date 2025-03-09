@@ -4,6 +4,7 @@
     "slug": "epub-reader",
     "version": "1.0.0",
     "scheme": "epub-reader",
+    "newArchEnabled": true,
     "web": {
       "bundler": "metro",
       "output": "static",
